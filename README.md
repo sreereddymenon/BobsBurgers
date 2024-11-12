@@ -6,4 +6,4 @@ List Screen:
 
 Details Screen: 
 
-![Screenshot_20241111_183737](https://github.com/user-attachments/assets/be9260f3-0410-4c01-ada0-269cc934f21d)
+![Screenshot_20241111_185341](https://github.com/user-attachments/assets/3aa9aa73-effb-44f4-b06d-e56a4f0ee004)
